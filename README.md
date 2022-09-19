@@ -7,9 +7,10 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="vitu-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="vitu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="vitu-pic" height="150" style="border-radius:50px;"
-  src="https://www.instagram.com/p/CEPWeYKjbpC/?utm_source=ig_web_copy_link">
+  <img align="right" alt="vitu-pic" height="150" style="border-radius:50px;" src="https://www.instagram.com/p/CEPWeYKjbpC/">
 </div>
+  
+  ##
 
 - 🌱 Atualmente aprendendo Java Script, C# e SQL
 - 📚 Estudando Ciência da Computação
